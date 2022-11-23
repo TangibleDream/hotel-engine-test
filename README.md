@@ -15,7 +15,7 @@ npm version `8.6.0`
 
 ## Additional resources
 
-<p>I employed node version manager `nvm` to nab the stable version `18.0.0
+<p>I employed node version manager `nvm` to nab the stable version `18.0.0`
 
 - enter: `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash` (I'm actually on `0.37.2`)
 - enter: `export NVM_DIR="$HOME/.nvm"`
